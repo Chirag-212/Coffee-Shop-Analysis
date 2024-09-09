@@ -1,0 +1,12 @@
+Objective: The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of coffee shop.
+
+Question to answer:
+1. How do sales vary by the day of the week and hour of the day.
+2. Are there any peak time for sales activity
+3. What is total sales revenue for each month?
+4. How do sales vary across different store locations?
+5. What is average price/order per person
+6. What products are best selling in terms of quantity and revenue
+7. How do Sales vary by category of different products
+
+Data Source: Coffee Shop Sales: https://mavenanalytics.io/data-playground
